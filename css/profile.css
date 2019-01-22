@@ -1,0 +1,46 @@
+body{
+    background-image: url("../media/profilebg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.mynavbar{
+    border-bottom: none;
+}
+.profile{
+    border: 1px solid #e7e7e7;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin-top: 11%;
+    margin-left: 15%;
+    background-image: url("../media/male.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color:white;    
+}
+.name{
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.panelText{
+    margin-top: 4%;
+}
+footer{
+    background-color: #dddddd;
+    color:#000000;
+    font-size:16px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-top: -20px;
+}
+.dropdown-toggle{
+    color: #777777;
+    transition: 0.1s;
+}
+.dropdown-toggle:hover{
+    color: #2d2d2d;
+    cursor: pointer;
+}
